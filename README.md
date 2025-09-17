@@ -18,16 +18,6 @@
 - 🎉 微信公众号：**玄道夜谈**
 
 ---
-
-## 🧰 Github仓库
-<div align="center">
-  <a href="https://github.com/BugFor-Pings">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BugFor-Pings&layout=compact&hide=html&theme=radical" alt="Top Langs" />
-  </a>
-</div>
-
----
-
 ## 🧰 技术栈
 
 <p align="center">
@@ -36,3 +26,12 @@
   <img src="https://img.shields.io/badge/%E7%94%B5%E5%AD%90%E5%8F%96%E8%AF%81-60%25-8B5CF6?style=for-the-badge" alt="电子取证 60%">
   <img src="https://img.shields.io/badge/%E8%AF%AD%E8%A8%80%E5%BC%80%E5%8F%91-30%25-F59E0B?style=for-the-badge" alt="语言开发 30%">
 </p>
+
+---
+
+## 🧰 Github仓库
+<div align="center">
+  <a href="https://github.com/BugFor-Pings">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BugFor-Pings&layout=compact&hide=html&theme=radical" alt="Top Langs" />
+  </a>
+</div>
